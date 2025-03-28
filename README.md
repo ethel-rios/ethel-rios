@@ -8,5 +8,5 @@
 
 - 📫 How to reach me: www.linkedin.com/in/ethelrios | yanelirg@gmail.com 
 
-- 😄 Pronouns: She/Her
+
 
