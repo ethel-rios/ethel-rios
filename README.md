@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @ethel-rios!
+👋 Hi, I’m @ethel-rios
 
-- 👀 I’m interested in data analytics, health tech, and leveraging data-driven insights to improve decision-making.
+Data & AI enthusiast focused on building data-driven and AI-powered solutions.
 
-- 🌱 I’m currently learning advanced data visualization, statistical modeling, and refining my SQL, R and Python skills.
-
-- 💞️ I’m seeking opportunities as a data analyst, where I can apply my skills in data cleaning, visualization, and statistical analysis to drive meaningful insights.
-
-- 📫 How to reach me: www.linkedin.com/in/ethelrios | yanelirg@gmail.com 
-
-
-
+* 👀 Interested in Artificial Intelligence, Data Engineering, and Health Tech analytics
+* 🌱 Currently strengthening my skills in SQL, Python, and R, while learning Generative AI fundamentals (LLMs, prompt engineering, RAG concepts) and expanding my understanding of cloud and data tools
+* 🛠️ Tools: SQL (BigQuery), Python, R, Excel, Tableau
+* 📫 Reach me at: www.linkedin.com/in/ethelrios | yanelirg@gmail.com
